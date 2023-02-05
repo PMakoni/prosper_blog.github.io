@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:prosper_blog/PlatformService.dart';
+
+import '../PlatformService.dart';
 
 class TopBackground extends StatelessWidget {
   const TopBackground({super.key});

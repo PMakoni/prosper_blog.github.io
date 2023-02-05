@@ -15,7 +15,7 @@ class ProfileCard extends StatelessWidget {
           10, PlatFormServices.isMobile(context) ? 80 : 20, 10, 10),
       decoration: BoxDecoration(
           color: Colors.white,
-          borderRadius: BorderRadius.circular(5),
+          borderRadius: BorderRadius.circular(8),
           boxShadow: [
             BoxShadow(
                 color: Colors.black.withOpacity(.1),
